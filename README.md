@@ -1,6 +1,6 @@
 # deStripe
 
-![alt text](https://raw.githubusercontent.com/SebastienTs/deStripe/master/.png)
+![alt text](https://raw.githubusercontent.com/SebastienTs/deStripe/master/FilterExample.PNG)
 
 This ImageJ macro implements an image filter meant to mitigate close to parallel attenuation stripes, such as the ones typically observed in (fixed) light sheet microscopy. The filter is designed to cope with some stripe angular spread (e.g. due to light sheet refraction at the sample surface), and it can process a 3D stack in one go (but the processing is performed slice by slice).
 
